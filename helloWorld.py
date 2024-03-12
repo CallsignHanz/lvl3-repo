@@ -1,2 +1,5 @@
 user_input = input()
-print(user_input)
+
+print_to_user = user_input.capitalize() + "."
+
+print(print_to_user)
